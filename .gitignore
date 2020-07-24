@@ -22,3 +22,7 @@ build/
 *~
 lib/
 
+
+Examples/ROS2/ORB_SLAM2/build/
+Examples/ROS2/ORB_SLAM2/install/
+Examples/ROS2/ORB_SLAM2/log/
